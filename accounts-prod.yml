@@ -1,5 +1,15 @@
 build:
   version: "2.0.0"
+
+accounts:
+  message: "Welcome to JavaExpress accounts related prod apis"
+  contactDetails:
+    name: "Neeraj - Developer"
+    email: "neeraj@javaexpress.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
+
 eureka:
   client:
     fetch-registry: true
