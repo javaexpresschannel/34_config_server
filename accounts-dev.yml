@@ -1,5 +1,14 @@
 build:
   version: "1.0.0"
+
+accounts:
+  message: "Welcome to JavaExpress accounts related dev apis"
+  contactDetails:
+    name: "akhil - Developer"
+    email: "akhil@javaexpress.com"
+  onCallSupport:
+    - (+91) 555-1234
+    - (+91) 523-1345
 eureka:
   client:
     fetch-registry: true
