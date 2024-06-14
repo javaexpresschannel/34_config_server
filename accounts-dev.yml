@@ -7,7 +7,7 @@ accounts:
     name: "akhil - Developer"
     email: "akhil@javaexpress.com"
   onCallSupport:
-    - (+91) 555-1234
+    - (+91) 7885983728
     - (+91) 523-1345
 eureka:
   client:
